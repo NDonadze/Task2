@@ -23,6 +23,9 @@ body{
     font-size: 56px;
     line-height: 64px;
 }
+.div{
+    display: flex; 
+}
 .div1{
     width: 770px;
     height: 448px;
@@ -70,3 +73,42 @@ body{
     font-weight: 700;
     line-height: 48px;
 }
+.div2{
+    width: 370px;
+    height: 448px;
+    margin-left: 50px;
+    margin-top: 103px;
+    background-color: white;
+    border-radius: 3px;
+}
+.div2img{
+    width: 370px;
+    height: 304px;
+}
+.div2p1{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 62px;
+    height: 32px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+}
+.div2p2{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 52px;
+    height: 32px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #171B1B;
+}
+.div2p3{
+    width: 53px;
+    height: 48px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    padding-left: 320px;
+}
+
