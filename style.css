@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F5D3AB;
+}
+.p1{
+    width: 127px;
+    height: 32px;
+    margin-top: 93px;
+    margin-left: 135px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.p2{
+    width: 519px;
+    height: 128px;
+    margin-top: 23px;
+    margin-left: 135px;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+}
+.div1{
+    width: 770px;
+    height: 448px;
+    margin-left: 135px;
+    margin-top: 103px;
+    background-image: url(img/bread.jpg);
+    border-radius: 10px;
+}
+.div1p1{
+    width: 62px;
+    height: 32px;
+    padding-top: 205px;
+    padding-left: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.div1p2{
+    width: 294px;
+    height: 96px;
+    margin-top: 15px;
+    padding-left: 32px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.div1p3{
+    width: 322px;
+    height: 68px;
+    margin-top: 15px;
+    padding-left: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    opacity: 50%;
+    display: inline;
+}
+.div1p4{
+    width: 54px;
+    height: 48px;
+    padding-left: 700px;
+    padding-right: 60px;
+    padding-top: 2px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
