@@ -4,6 +4,8 @@
 }
 body{
     background-color: #F5D3AB;
+    width: 1440px;
+    height: 1450px;
 }
 .p1{
     width: 127px;
@@ -126,3 +128,14 @@ body{
     margin-top: 25px;
     margin-left: 40px;
 }
+.button{
+    width: 170px;
+    height: 48px;
+    margin-left: 635px;
+    margin-top: 80px;
+    background-color: #F5D3AB;
+    border: 1px solid #171B1B3D;
+    font-weight: 400;
+
+}
+
